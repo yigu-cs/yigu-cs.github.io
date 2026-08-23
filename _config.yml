@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yi Gu / Associate Professor"
+title                    : "Yi Gu / Associate Professor of Computer Science"
 title_separator          : "-"
 name                     : &name "Yi Gu"
-description              : &description "Yi Gu's academic website"
+description              : &description "YI Gu's academic website"
 url                      : "https://yigu-cs.github.io/"
 baseurl                  : ""
 repository               : "yigu-cs/yigu-cs.github.io"
@@ -22,7 +22,7 @@ repository               : "yigu-cs/yigu-cs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :  "GuYi.jpg"
+  avatar           : "GuYi.jpg"
   name             : "Yi Gu"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor of Computer Science"
