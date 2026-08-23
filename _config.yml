@@ -13,9 +13,9 @@ title                    : "Yi Gu / Associate Professor of Computer Science"
 title_separator          : "-"
 name                     : &name "Yi Gu"
 description              : &description "YI Gu's academic website"
-url                      : "https://yigu.github.io"
+url                      : "https://yigu-cs.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yigu-cs/yigu.github.io"
+repository               : "yigu-cs/yigu-cs.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
