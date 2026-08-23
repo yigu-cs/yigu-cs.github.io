@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yi Gu"
+title                    : "Yi Gu / Associate Professor"
 title_separator          : "-"
 name                     : &name "Yi Gu"
-description              : &description "YI Gu's academic website"
+description              : &description "Yi Gu's academic website"
 url                      : "https://yigu-cs.github.io/"
 baseurl                  : ""
 repository               : "yigu-cs/yigu-cs.github.io"
