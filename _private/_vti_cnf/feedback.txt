@@ -1,0 +1,11 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|04 Jan 2009 17:01:46 -0000
+vti_extenderversion:SR|6.0.2.6551
+vti_nosourcecontrol:SR|True
+vti_author:SR|seraph-PC\\seraph
+vti_modifiedby:SR|seraph-PC\\seraph
+vti_nexttolasttimemodified:TR|04 Jan 2009 17:01:46 -0000
+vti_timecreated:TR|04 Jan 2009 17:01:46 -0000
+vti_cacheddtm:TX|04 Jan 2009 17:01:46 -0000
+vti_filesize:IR|0
+vti_backlinkinfo:VX|
