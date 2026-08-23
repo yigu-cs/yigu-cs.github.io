@@ -22,14 +22,14 @@ repository               : "yigu-cs/yigu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "GuYi.jpg"
+  name             : "Yi Gu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Associate Professor of Computer Science"
+  location         : "1301 E Main St, Murfreesboro, TN 37132"
+  employer         : "Middle TN State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Yi.Gu@mtsu.edu" 
 
   # Academic websites
   academia         : # URL
